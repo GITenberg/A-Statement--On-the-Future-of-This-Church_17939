@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7713
     wikipedia: http://en.wikipedia.org/wiki/John_Haynes_Holmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17939#A-Statement--On-the-Future-of-This-Church
 gutenberg_issued: '2006-03-06'
 gutenberg_type: Text
 identifiers:
